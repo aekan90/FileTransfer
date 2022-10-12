@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uwHiVUk+xq2pyy1etdE8wrospmDlkXFqF5Fvg7HoDzgHk6dkAYEiHUBjcvfCg5n9hUhoS7oaQzYdsyZQEcapMw==",
+  "dgSpecHash": "B/NnQ7JzM5ghraPHcdvpLOAYXwc5/6NDGESjAx8ky0eQuqyy5SU5qAgEADjCRu/oqoMM/rORzjUSg0KnGV6czw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
+  "projectFilePath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
     "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",

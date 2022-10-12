@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\SmartPlug.WorkerService.Entities.csproj",
+      "projectUniqueName": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\SmartPlug.WorkerService.Entities.csproj",
       "projectName": "SmartPlug.WorkerService.Entities",
-      "projectPath": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\SmartPlug.WorkerService.Entities.csproj",
+      "projectPath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\SmartPlug.WorkerService.Entities.csproj",
       "packagesPath": "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\obj\\",
+      "outputPath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\atifertugrul.kan\\AppData\\Roaming\\NuGet\\NuGet.Config",
