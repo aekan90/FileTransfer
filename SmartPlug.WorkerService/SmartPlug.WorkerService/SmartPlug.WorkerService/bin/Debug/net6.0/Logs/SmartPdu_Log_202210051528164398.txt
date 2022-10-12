@@ -1,9 +1,0 @@
-5.10.2022 15:28:16: Logger Started 
-5.10.2022 15:28:16: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202210051528164398.txt
-5.10.2022 15:28:16: Scanning SmartPDU
-5.10.2022 15:28:16: Device Found on COM3
-5.10.2022 15:28:16: Service Started
-5.10.2022 15:28:16: ---------------------Configuration Complete-------------------------
-5.10.2022 15:28:16: --------------------------------------------------------------------
-5.10.2022 15:28:16: Service Started : Opened serial com port COM3
-5.10.2022 15:28:16: Waiting for a connection

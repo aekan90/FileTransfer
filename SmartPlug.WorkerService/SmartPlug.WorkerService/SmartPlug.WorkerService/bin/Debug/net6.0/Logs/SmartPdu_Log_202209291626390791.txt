@@ -1,3 +1,0 @@
-29.09.2022 16:26:39: Logger Started 
-29.09.2022 16:26:39: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202209291626390791.txt
-29.09.2022 16:26:39: Service Started

@@ -1,3 +1,0 @@
-6.10.2022 12:21:38: Logger Started 
-6.10.2022 12:21:38: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202210061221387502.txt
-6.10.2022 12:21:38: Scanning SmartPDU

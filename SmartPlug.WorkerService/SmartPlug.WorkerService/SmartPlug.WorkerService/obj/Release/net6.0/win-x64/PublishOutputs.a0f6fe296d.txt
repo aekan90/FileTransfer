@@ -1,6 +1,0 @@
-C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
-C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0\publish\win-x64\appsettings.json
-C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0\publish\win-x64\SmartPlug.WorkerService.pdb
-C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0\publish\win-x64\SmartPlug.WorkerService.Entities.pdb
-C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0\publish\win-x64\SmartPlug.WorkerService.PduHelper.pdb
-C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0\publish\win-x64\SmartPlug.WorkerService.exe
