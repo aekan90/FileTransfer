@@ -1,0 +1,12 @@
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\bin\Debug\net6.0\SmartPlug.WorkerService.PduHelper.deps.json
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\bin\Debug\net6.0\SmartPlug.WorkerService.PduHelper.dll
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\bin\Debug\net6.0\SmartPlug.WorkerService.PduHelper.pdb
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.csproj.AssemblyReference.cache
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.AssemblyInfoInputs.cache
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.AssemblyInfo.cs
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.csproj.CoreCompileInputs.cache
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.dll
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\refint\SmartPlug.WorkerService.PduHelper.dll
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\SmartPlug.WorkerService.PduHelper.pdb
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.PduHelper\obj\Debug\net6.0\ref\SmartPlug.WorkerService.PduHelper.dll

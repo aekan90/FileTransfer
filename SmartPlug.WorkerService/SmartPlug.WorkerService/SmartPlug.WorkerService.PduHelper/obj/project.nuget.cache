@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/NnQ7JzM5ghraPHcdvpLOAYXwc5/6NDGESjAx8ky0eQuqyy5SU5qAgEADjCRu/oqoMM/rORzjUSg0KnGV6czw==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

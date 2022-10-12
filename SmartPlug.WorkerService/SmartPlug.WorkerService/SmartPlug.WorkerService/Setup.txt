@@ -1,0 +1,46 @@
+Worker Servis Notlarım - 06.10.2022 / ATIF ERTUĞRUL KAN / NVİ
+
+----------- sc ile kurulum -----------> SC İLE KUR 
+
+Worker Servisi publish al
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Release\net6.0
+bu konumdan x86 ve relase klasörlerini sil.
+
+
+PowerShell Açılmaz kurumda cmd den çalış
+
+"\net6.0" klasörünün içini "C:\WorkerService" dizinine at.
+
+sc create SmartPlugWorkerService binPath="C:\WorkerService\SmartPlug.WorkerService.exe" start=auto displayname="Smart Plug Worker Service"
+sc Start "SmartPlugWorkerService"
+
+sc Stop "SmartPlugWorkerService"
+sc Delete "SmartPlugWorkerService"  
+// Sildikten sonra kayıt defterine de bak ordan silinmemişse ell esil
+Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SmartPlugWorkerService
+
+
+Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SmartPduService 
+start 2 yaparsan başlangıçta otomatik çalışır
+
+
+
+
+
+----------- InstallUtil ile kurulum -----------
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+InstallUtil.Exe C:\WorkerService\SmartPlug.WorkerService.exe
+
+Service install
+CMD yönetici olarak çalıştır.
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+InstallUtil.Exe C:\repos\SmartPdu_RemoteManagement\Service\RemoteKiosk.Service.exe
+
+Service uninstall
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+installutil /u C:\WorkerService\SmartPlug.WorkerService.exe
+installutil /u WindowsService.exe 
+
+Bir hizmetin yürütülebilir dosyası silindikten sonra hizmet kayıt defterinde hala mevcut olabilir. 
+Bu durumda, hizmet girdisini kayıt defterinden kaldırmak için sc delete komutunu kullanın.
+sc.exe [<servername>] delete [<servicename>]

@@ -1,0 +1,22 @@
+12.10.2022 16:19:15: Logger Started 
+12.10.2022 16:19:15: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202210121619159133.txt
+12.10.2022 16:19:15: Scanning SmartPDU
+12.10.2022 16:19:16: Device Found on COM3
+12.10.2022 16:19:16: StartAsync Çalıştı
+12.10.2022 16:19:16: Service Started
+12.10.2022 16:19:16: Local IPv4 : 192.168.22.45
+12.10.2022 16:19:16: Kiosk Hostname : 0502-0054
+12.10.2022 16:19:16: Kiosk Serial Port : COM3
+12.10.2022 16:19:16: server.Started
+12.10.2022 16:19:16: Service Started : Opened serial com port COM3
+12.10.2022 16:19:16: Waiting for a connection
+12.10.2022 16:19:36: Status : 1000
+12.10.2022 16:19:36: Requestd2b16486-843c-4a11-b727-e8b65ff0dfec,1,Close
+12.10.2022 16:19:36: 1. Porta Close isteği Geldi
+12.10.2022 16:19:37: Son Durum : 1000
+12.10.2022 16:19:37: ---------------------Success1-------------------------
+12.10.2022 16:19:37: --------------------Exeption1--------------------------
+12.10.2022 16:19:37: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 16:19:37: Service Started : Opened serial com port COM3
+12.10.2022 16:19:37: Waiting for a connection

@@ -1,0 +1,82 @@
+12.10.2022 17:24:24: Logger Started 
+12.10.2022 17:24:24: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202210121724247169.txt
+12.10.2022 17:24:24: Scanning SmartPDU
+12.10.2022 17:24:25: Device Found on COM3
+12.10.2022 17:24:25: StartAsync Çalıştı
+12.10.2022 17:24:25: Service Started
+12.10.2022 17:24:25: Local IPv4 : 192.168.22.45
+12.10.2022 17:24:25: Kiosk Hostname : 0502-0054
+12.10.2022 17:24:25: Kiosk Serial Port : COM3
+12.10.2022 17:24:25: server.Started
+12.10.2022 17:24:25: Service Started : Opened serial com port COM3
+12.10.2022 17:24:25: Waiting for a connection
+12.10.2022 17:24:38: Status : 1001
+12.10.2022 17:24:38: Requestdc9a356d-9983-4029-9a61-298ecd328438,4,Open
+12.10.2022 17:24:38: 4. Porta Open isteği Geldi
+12.10.2022 17:24:39: Son Durum : 1001
+12.10.2022 17:24:40: ---------------------Success1-------------------------
+12.10.2022 17:24:40: --------------------Exeption1--------------------------
+12.10.2022 17:24:40: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:24:40: Service Started : Opened serial com port COM3
+12.10.2022 17:24:40: Waiting for a connection
+12.10.2022 17:24:48: Status : 1001
+12.10.2022 17:24:48: Request53f932aa-1431-4619-bc1e-c0c3ea6a0cce,1,Open
+12.10.2022 17:24:48: 1. Porta Open isteği Geldi
+12.10.2022 17:24:49: Son Durum : 1001
+12.10.2022 17:24:49: ---------------------Success1-------------------------
+12.10.2022 17:24:49: --------------------Exeption1--------------------------
+12.10.2022 17:24:49: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:24:49: Service Started : Opened serial com port COM3
+12.10.2022 17:24:49: Waiting for a connection
+12.10.2022 17:24:57: Status : 1001
+12.10.2022 17:24:57: Request69090486-04fd-4d64-853d-c70b153fb144,1,Open
+12.10.2022 17:24:57: 1. Porta Open isteği Geldi
+12.10.2022 17:24:58: Son Durum : 1001
+12.10.2022 17:24:58: ---------------------Success1-------------------------
+12.10.2022 17:24:58: --------------------Exeption1--------------------------
+12.10.2022 17:24:58: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:24:58: Service Started : Opened serial com port COM3
+12.10.2022 17:24:58: Waiting for a connection
+12.10.2022 17:25:03: Status : 1001
+12.10.2022 17:25:03: Request45fc1d37-1eca-4a5f-95f9-cfa829a7f286,1,Close
+12.10.2022 17:25:03: 1. Porta Close isteği Geldi
+12.10.2022 17:25:04: Son Durum : 0001
+12.10.2022 17:25:04: ---------------------Success1-------------------------
+12.10.2022 17:25:04: --------------------Exeption1--------------------------
+12.10.2022 17:25:04: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:25:04: Service Started : Opened serial com port COM3
+12.10.2022 17:25:04: Waiting for a connection
+12.10.2022 17:25:08: Status : 0001
+12.10.2022 17:25:08: Requestf94675a1-969d-4ec4-b03e-119b75eeb057,1,Open
+12.10.2022 17:25:08: 1. Porta Open isteği Geldi
+12.10.2022 17:25:09: Son Durum : 1001
+12.10.2022 17:25:09: ---------------------Success1-------------------------
+12.10.2022 17:25:09: --------------------Exeption1--------------------------
+12.10.2022 17:25:09: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:25:09: Service Started : Opened serial com port COM3
+12.10.2022 17:25:09: Waiting for a connection
+12.10.2022 17:25:14: Status : 1001
+12.10.2022 17:25:14: Request8b6c3667-3e7c-4ded-9854-192363be765f,2,Open
+12.10.2022 17:25:14: 2. Porta Open isteği Geldi
+12.10.2022 17:25:15: Son Durum : 1101
+12.10.2022 17:25:15: ---------------------Success1-------------------------
+12.10.2022 17:25:15: --------------------Exeption1--------------------------
+12.10.2022 17:25:15: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:25:15: Service Started : Opened serial com port COM3
+12.10.2022 17:25:15: Waiting for a connection
+12.10.2022 17:25:20: Status : 1101
+12.10.2022 17:25:20: Request69084b35-7a84-4c87-957c-1293d039b8ad,3,Open
+12.10.2022 17:25:20: 3. Porta Open isteği Geldi
+12.10.2022 17:25:21: Son Durum : 1111
+12.10.2022 17:25:21: ---------------------Success1-------------------------
+12.10.2022 17:25:21: --------------------Exeption1--------------------------
+12.10.2022 17:25:21: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+12.10.2022 17:25:21: Service Started : Opened serial com port COM3
+12.10.2022 17:25:21: Waiting for a connection

@@ -1,0 +1,191 @@
+3.10.2022 17:05:11: Logger Started 
+3.10.2022 17:05:11: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202210031705119415.txt
+3.10.2022 17:05:11: Scanning SmartPDU
+3.10.2022 17:05:13: Device Found on COM3
+3.10.2022 17:05:13: Service Started
+3.10.2022 17:05:13: ---------------------Configuration Complete-------------------------
+3.10.2022 17:05:13: --------------------------------------------------------------------
+3.10.2022 17:05:13: Service Started : Opened serial com port COM3
+3.10.2022 17:05:13: Waiting for a connection
+3.10.2022 17:05:15: Status : 0011
+3.10.2022 17:05:15: Request2b8681ad-84eb-4846-b78d-9af8afb6b1df,2,Open
+3.10.2022 17:05:15: 2. Porta Open isteği Geldi
+3.10.2022 17:05:16: Son Durum : 0111
+3.10.2022 17:05:17: ---------------------Success-------------------------
+3.10.2022 17:05:17: Service Started : Opened serial com port COM3
+3.10.2022 17:05:17: Waiting for a connection
+3.10.2022 17:05:58: Status : 0111
+3.10.2022 17:05:58: Requestd1c6d6c4-256f-49aa-91d4-7ff111b68899,2,Close
+3.10.2022 17:05:58: 2. Porta Close isteği Geldi
+3.10.2022 17:05:59: Son Durum : 0011
+3.10.2022 17:05:59: ---------------------Success-------------------------
+3.10.2022 17:05:59: Service Started : Opened serial com port COM3
+3.10.2022 17:05:59: Waiting for a connection
+3.10.2022 17:06:45: Status : 0011
+3.10.2022 17:06:45: Requestafcca731-8759-448b-be2c-2401ba62f758,2,Close
+3.10.2022 17:06:45: 2. Porta Close isteği Geldi
+3.10.2022 17:06:46: Son Durum : 0011
+3.10.2022 17:06:46: ---------------------Success-------------------------
+3.10.2022 17:06:47: Service Started : Opened serial com port COM3
+3.10.2022 17:06:47: Waiting for a connection
+3.10.2022 17:06:52: Status : 0011
+3.10.2022 17:06:52: Request2a56b864-435d-48be-9734-4802febfd9c0,2,Close
+3.10.2022 17:06:52: 2. Porta Close isteği Geldi
+3.10.2022 17:06:53: Son Durum : 0011
+3.10.2022 17:06:53: ---------------------Success-------------------------
+3.10.2022 17:06:53: Service Started : Opened serial com port COM3
+3.10.2022 17:06:53: Waiting for a connection
+3.10.2022 17:07:07: Status : 0011
+3.10.2022 17:07:07: Requeste08ad7ec-695a-4f88-9e51-cf50f66ce4c0,2,Close
+3.10.2022 17:07:07: 2. Porta Close isteği Geldi
+3.10.2022 17:07:08: Son Durum : 0011
+3.10.2022 17:07:08: ---------------------Success-------------------------
+3.10.2022 17:07:09: Service Started : Opened serial com port COM3
+3.10.2022 17:07:09: Waiting for a connection
+3.10.2022 17:08:34: Status : 0011
+3.10.2022 17:08:34: Requeste9321017-cad4-422c-bbe9-15e2f788d675,2,Close
+3.10.2022 17:08:34: 2. Porta Close isteği Geldi
+3.10.2022 17:08:35: Son Durum : 0011
+3.10.2022 17:08:35: ---------------------Success-------------------------
+3.10.2022 17:08:35: Service Started : Opened serial com port COM3
+3.10.2022 17:08:35: Waiting for a connection
+3.10.2022 17:09:33: Status : 0011
+3.10.2022 17:09:33: Request1ef8ddae-f446-45e1-b0ee-b91bdd28c745,2,Close
+3.10.2022 17:09:33: 2. Porta Close isteği Geldi
+3.10.2022 17:09:34: Son Durum : 0011
+3.10.2022 17:09:34: ---------------------Success-------------------------
+3.10.2022 17:09:34: Service Started : Opened serial com port COM3
+3.10.2022 17:09:34: Waiting for a connection
+3.10.2022 17:11:38: Status : 0011
+3.10.2022 17:11:38: Request02cea62e-c139-4d96-bc68-eaa52fcff9a2,2,Close
+3.10.2022 17:11:38: 2. Porta Close isteği Geldi
+3.10.2022 17:11:39: Son Durum : 0011
+3.10.2022 17:11:39: ---------------------Success-------------------------
+3.10.2022 17:11:39: Service Started : Opened serial com port COM3
+3.10.2022 17:11:39: Waiting for a connection
+3.10.2022 17:13:30: Status : 0011
+3.10.2022 17:13:30: Request52b8c7cd-1b53-4736-a9da-67545828c62a,2,Close
+3.10.2022 17:13:30: 2. Porta Close isteği Geldi
+3.10.2022 17:13:31: Son Durum : 0011
+3.10.2022 17:13:31: ---------------------Success-------------------------
+3.10.2022 17:13:32: Service Started : Opened serial com port COM3
+3.10.2022 17:13:32: Waiting for a connection
+3.10.2022 17:15:10: Status : 0011
+3.10.2022 17:15:10: Requestb20bd261-0892-42cf-b2f5-3d61ff0532c6,2,Close
+3.10.2022 17:15:10: 2. Porta Close isteği Geldi
+3.10.2022 17:15:11: Son Durum : 0011
+3.10.2022 17:15:11: ---------------------Success-------------------------
+3.10.2022 17:15:11: Service Started : Opened serial com port COM3
+3.10.2022 17:15:11: Waiting for a connection
+3.10.2022 17:58:22: Status : 0011
+3.10.2022 17:58:22: Requested026ddb-23da-4456-bae1-1eb8ca586690,2,Open
+3.10.2022 17:58:22: 2. Porta Open isteği Geldi
+3.10.2022 17:58:23: Son Durum : 0111
+3.10.2022 17:58:23: ---------------------Success-------------------------
+3.10.2022 17:58:23: Service Started : Opened serial com port COM3
+3.10.2022 17:58:23: Waiting for a connection
+3.10.2022 17:58:51: Status : 0111
+3.10.2022 17:58:51: Request410e372f-bf9e-410e-8a93-99fc2b0feee9,2,Close
+3.10.2022 17:58:51: 2. Porta Close isteği Geldi
+3.10.2022 17:58:52: Son Durum : 0111
+3.10.2022 17:58:52: ---------------------Success-------------------------
+3.10.2022 17:58:52: Service Started : Opened serial com port COM3
+3.10.2022 17:58:52: Waiting for a connection
+3.10.2022 17:59:01: Status : 0011
+3.10.2022 17:59:01: Requestec7a3d6f-e024-4aee-878f-49543be3896d,2,Close
+3.10.2022 17:59:01: 2. Porta Close isteği Geldi
+3.10.2022 17:59:02: Son Durum : 0011
+3.10.2022 17:59:02: ---------------------Success-------------------------
+3.10.2022 17:59:02: Service Started : Opened serial com port COM3
+3.10.2022 17:59:02: Waiting for a connection
+3.10.2022 17:59:12: Status : 0011
+3.10.2022 17:59:12: Request8290d3e7-2778-4a10-a1c0-064c0b689a1f,2,Open
+3.10.2022 17:59:12: 2. Porta Open isteği Geldi
+3.10.2022 17:59:13: Son Durum : 0111
+3.10.2022 17:59:13: ---------------------Success-------------------------
+3.10.2022 17:59:13: Service Started : Opened serial com port COM3
+3.10.2022 17:59:13: Waiting for a connection
+3.10.2022 17:59:16: Status : 0111
+3.10.2022 17:59:16: Requestd408611f-201f-4b81-8827-fb531464f0aa,2,Close
+3.10.2022 17:59:16: 2. Porta Close isteği Geldi
+3.10.2022 17:59:17: Son Durum : 0011
+3.10.2022 17:59:17: ---------------------Success-------------------------
+3.10.2022 17:59:18: Service Started : Opened serial com port COM3
+3.10.2022 17:59:18: Waiting for a connection
+3.10.2022 17:59:26: Status : 0011
+3.10.2022 17:59:26: Request7b2d6b54-cd03-43cc-b46f-fa2d0cf660d9,2,Open
+3.10.2022 17:59:26: 2. Porta Open isteği Geldi
+3.10.2022 17:59:27: Son Durum : 0011
+3.10.2022 17:59:27: ---------------------Success-------------------------
+3.10.2022 17:59:27: Service Started : Opened serial com port COM3
+3.10.2022 17:59:27: Waiting for a connection
+3.10.2022 18:00:24: Status : 0111
+3.10.2022 18:00:24: Request8219f3b0-24de-4d54-a589-e3834a7da4ba,2,Open
+3.10.2022 18:00:24: 2. Porta Open isteği Geldi
+3.10.2022 18:00:25: Son Durum : 0111
+3.10.2022 18:00:25: ---------------------Success-------------------------
+3.10.2022 18:00:25: Service Started : Opened serial com port COM3
+3.10.2022 18:00:25: Waiting for a connection
+3.10.2022 18:00:37: Status : 0111
+3.10.2022 18:00:37: Request20c689e9-db41-403f-846c-274f1a6dd00d,2,Open
+3.10.2022 18:00:37: 2. Porta Open isteği Geldi
+3.10.2022 18:00:38: Son Durum : 0111
+3.10.2022 18:00:38: ---------------------Success-------------------------
+3.10.2022 18:00:38: Service Started : Opened serial com port COM3
+3.10.2022 18:00:38: Waiting for a connection
+3.10.2022 18:00:50: Status : 0111
+3.10.2022 18:00:50: Requestc980f1e0-ac02-4d70-94db-ce225f1e4fa5,2,Close
+3.10.2022 18:00:50: 2. Porta Close isteği Geldi
+3.10.2022 18:00:51: Son Durum : 0011
+3.10.2022 18:00:51: ---------------------Success-------------------------
+3.10.2022 18:00:51: Service Started : Opened serial com port COM3
+3.10.2022 18:00:51: Waiting for a connection
+3.10.2022 18:01:00: Status : 0011
+3.10.2022 18:01:00: Request81bd7ee7-e6d2-4a14-99c7-04da5bbe6a6e,2,Open
+3.10.2022 18:01:00: 2. Porta Open isteği Geldi
+3.10.2022 18:01:01: Son Durum : 0111
+3.10.2022 18:01:01: ---------------------Success-------------------------
+3.10.2022 18:01:01: Service Started : Opened serial com port COM3
+3.10.2022 18:01:01: Waiting for a connection
+3.10.2022 18:01:10: Status : 0111
+3.10.2022 18:01:10: Request6018667b-471b-49bf-af2c-697972f70ca7,2,Close
+3.10.2022 18:01:10: 2. Porta Close isteği Geldi
+3.10.2022 18:01:11: Son Durum : 0011
+3.10.2022 18:01:11: ---------------------Success-------------------------
+3.10.2022 18:01:11: Service Started : Opened serial com port COM3
+3.10.2022 18:01:11: Waiting for a connection
+3.10.2022 18:01:13: Status : 0011
+3.10.2022 18:01:13: Requestac718500-2a3c-4fc3-8940-6fbecb920e50,2,Close
+3.10.2022 18:01:13: 2. Porta Close isteği Geldi
+3.10.2022 18:01:14: Son Durum : 0011
+3.10.2022 18:01:14: ---------------------Success-------------------------
+3.10.2022 18:01:14: Service Started : Opened serial com port COM3
+3.10.2022 18:01:14: Waiting for a connection
+3.10.2022 18:01:19: Status : 0011
+3.10.2022 18:01:19: Request9c027808-c282-4d9a-a7cd-0adcc7bbc400,2,Open
+3.10.2022 18:01:19: 2. Porta Open isteği Geldi
+3.10.2022 18:01:20: Son Durum : 0111
+3.10.2022 18:01:20: ---------------------Success-------------------------
+3.10.2022 18:01:20: Service Started : Opened serial com port COM3
+3.10.2022 18:01:20: Waiting for a connection
+3.10.2022 18:02:12: Status : 0111
+3.10.2022 18:02:12: Request2d46db0c-ab59-4911-a86b-b6caa804c133,2,Reset
+3.10.2022 18:02:12: 2. Porta Reset isteği Geldi
+3.10.2022 18:02:17: Son Durum : 0111
+3.10.2022 18:02:17: ---------------------Success-------------------------
+3.10.2022 18:02:17: Service Started : Opened serial com port COM3
+3.10.2022 18:02:17: Waiting for a connection
+3.10.2022 18:02:32: Status : 0111
+3.10.2022 18:02:32: Requestc99bf9c1-a77e-4630-90ee-3471626cfe87,2,Open
+3.10.2022 18:02:32: 2. Porta Open isteği Geldi
+3.10.2022 18:02:33: Son Durum : 0111
+3.10.2022 18:02:33: ---------------------Success-------------------------
+3.10.2022 18:02:33: Service Started : Opened serial com port COM3
+3.10.2022 18:02:33: Waiting for a connection
+3.10.2022 18:02:38: Status : 0111
+3.10.2022 18:02:38: Request4e1707f1-3e5c-4f11-979c-cb6619d5ceca,2,Close
+3.10.2022 18:02:38: 2. Porta Close isteği Geldi
+3.10.2022 18:02:39: Son Durum : 0011
+3.10.2022 18:02:39: ---------------------Success-------------------------
+3.10.2022 18:02:39: Service Started : Opened serial com port COM3
+3.10.2022 18:02:39: Waiting for a connection

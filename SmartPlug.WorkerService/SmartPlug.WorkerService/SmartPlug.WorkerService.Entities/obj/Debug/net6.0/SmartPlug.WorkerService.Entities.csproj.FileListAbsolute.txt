@@ -1,0 +1,12 @@
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\bin\Debug\net6.0\SmartPlug.WorkerService.Entities.deps.json
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\bin\Debug\net6.0\SmartPlug.WorkerService.Entities.dll
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\bin\Debug\net6.0\SmartPlug.WorkerService.Entities.pdb
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.csproj.AssemblyReference.cache
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.AssemblyInfoInputs.cache
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.AssemblyInfo.cs
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.csproj.CoreCompileInputs.cache
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.dll
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\refint\SmartPlug.WorkerService.Entities.dll
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\SmartPlug.WorkerService.Entities.pdb
+C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService.Entities\obj\Debug\net6.0\ref\SmartPlug.WorkerService.Entities.dll

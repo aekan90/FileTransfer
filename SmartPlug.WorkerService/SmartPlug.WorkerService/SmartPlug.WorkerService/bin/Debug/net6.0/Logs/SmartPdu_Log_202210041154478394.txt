@@ -1,0 +1,23 @@
+4.10.2022 11:54:47: Logger Started 
+4.10.2022 11:54:47: Log File available at : C:\repos\SmartPlug.WorkerService\SmartPlug.WorkerService\SmartPlug.WorkerService\bin\Debug\net6.0\Logs\SmartPdu_Log_202210041154478394.txt
+4.10.2022 11:54:47: Scanning SmartPDU
+4.10.2022 11:54:48: Device Found on COM3
+4.10.2022 11:54:48: Service Started
+4.10.2022 11:54:48: ---------------------Configuration Complete-------------------------
+4.10.2022 11:54:48: --------------------------------------------------------------------
+4.10.2022 11:54:48: Service Started : Opened serial com port COM3
+4.10.2022 11:54:48: Waiting for a connection
+4.10.2022 11:55:01: Status : 1111
+4.10.2022 11:55:01: Requesta1238aee-c045-48d7-9e13-c80975b2ee4a,1,Open
+4.10.2022 11:55:01: 1. Porta Open isteği Geldi
+4.10.2022 11:55:02: Son Durum : 1111
+4.10.2022 11:55:02: ---------------------Success-------------------------
+4.10.2022 11:55:02: Service Started : Opened serial com port COM3
+4.10.2022 11:55:02: Waiting for a connection
+4.10.2022 11:58:07: Status : 1111
+4.10.2022 11:58:07: Request8551bd76-5d32-4bc3-b9a7-4de0ff666592,1,Close
+4.10.2022 11:58:07: 1. Porta Close isteği Geldi
+4.10.2022 11:58:08: Son Durum : 1111
+4.10.2022 11:58:08: ---------------------Success-------------------------
+4.10.2022 11:58:08: Service Started : Opened serial com port COM3
+4.10.2022 11:58:08: Waiting for a connection
