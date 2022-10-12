@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
+      "projectUniqueName": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
       "projectName": "SmartPlug.WorkerService.PduHelper",
-      "projectPath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
+      "projectPath": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\SmartPlug.WorkerService.PduHelper.csproj",
       "packagesPath": "C:\\Users\\atifertugrul.kan\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\obj\\",
+      "outputPath": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.PduHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\atifertugrul.kan\\AppData\\Roaming\\NuGet\\NuGet.Config",

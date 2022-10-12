@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7VgGXFn2fnbT/XGw1MZZf8e3cEcjZPd23XIfcfaIr8y8qmDDgMemZpzrSzqPmiZukASdiYDc3/LxQ3Rg3fAzg==",
+  "dgSpecHash": "E1DgCYAVLNoNHizrWcl5gKW2r4Iy51G7NqWoUNNhFITj+EeuBNafjTCQI3TfHVCK0MMOuvxUTM4Iovta73DePg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\SmartPlug.WorkerService.Entities.csproj",
+  "projectFilePath": "C:\\repos\\GitHub\\FileTransfer\\SmartPlug.WorkerService\\SmartPlug.WorkerService\\SmartPlug.WorkerService.Entities\\SmartPlug.WorkerService.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
