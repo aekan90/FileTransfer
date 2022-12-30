@@ -61,7 +61,8 @@
 ☐ Fatih Çakıroğlu | Udemy Asp.Net Core + SignalR
 ☐ Fatih Çakıroğlu | Udemy Asp.Net Core + Docker (Sıfırdan)
 ☐ Engin Demiroğ | Udemy kurumsal veritabanı tasarımı
-
+								  YAPILMASI GEREKENLER
+☐ 1 MOBİL UYGULAMA GELİŞTİR HEM İSO A HEM ANDROİDE AT
 ------------------------------------------------------------------------------------------------
 										HAYAT
 ☐ AYDA 1 KİTAP BİTİRMEK
