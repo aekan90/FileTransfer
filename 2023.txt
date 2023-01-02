@@ -1,86 +1,160 @@
-------------------------  1 YIL SONRA OLMAK İSTEDİĞİM YER  ------------------------
-
-										BİLGE
+----------------------  2023 31 ARALIK SABAH 05:00'DA OLMAK İSTEDİĞİM YER  ----------------------
+					____ BİLGE ____ 
 ☐ CAMBLY KİDS GİBİ BİR UYGULAMA İLE İNGİLİZCE KONUŞMASI
 ☐ YÜZME KURSUNA GİDİP YÜZME ÖĞRENMESİ
 ☐ BİLGEYLE 12 KİTAP BERABER OKUYARAK BİTİRMEK 
-   ☐								☐								☐	
-   ☐								☐								☐
-   ☐								☐								☐
-   ☐								☐								☐
+   ☐					☐					☐
+   ☐					☐					☐
+   ☐					☐					☐
+   ☐					☐					☐
 ☐ Bilgeyle 3 animasyon sinema filmine gitmek
-   ☐								☐								☐
-☐ Bilgeyle 3 animasyon dilmini evde hep beraber izlemek
-   ☐								☐								☐
-------------------------------------------------------------------------------------------------
-										MADDİ
-☐ SADECE NAKİT VEYA HESAP KARTINDAN ALIŞVERİŞ YAPMAK
-☐ HE										
-☐ BÜTÜN BORÇLARI TEMİZLEMEK "SIFIR" BORÇ POLİTİKASINA GEÇİYORUZ. 
-	☐ TEİAŞ  ☐ VAKIF K.K.  ☐ İŞ K.K.  ☐ DİŞ 
-	☐ KREDİ * İŞ  BANKASI (ATIF)   
-	☐ KREDİ * HALK BANKASI (GÖZDE)  
-	☐ KREDİ * VAKIFBANK (ATIF) 
-	☐ KREDİ * ZİRAAT (GOZDE) 
-	☐ KREDİ * İŞ (ATIF)
-	☐ KREDİ * ZİRAAT (ATIF)
-	☐ KREDİ * VAKIF TELEFON TAKSİT (ATIF)
-☐ KENARA 100 GRAM ALTIN BİRİKTİRMEK
-☐ ARABANIN AĞIR BAKIMLARINI VE KAPORTASINI YAPTIRMAK
-☐ HER HAFTA CUMARTESİ PAZARA GİT
-------------------------------------------------------------------------------------------------
-										SAĞLIK
+   ☐					☐					☐
+☐ Bilgeyle 3 animasyon Filmini evde hep beraber izlemek
+   ☐					☐					☐
+----------------------------------------------------------------------------------------------------					
+					____ MADDİ ____ 
+☐ POLOYU SAT, LEON AL(GÜMÜŞ GRİ)
+☐ HER HAFTA CUMARTESİ GÜNÜ PAZARA GİT
+☐ 60 BİN KART BORCUNU ÇEVİR 1 ŞUBAT 2024 DE ÖDE
+☐ TUTUMLU OL
+----------------------------------------------------------------------------------------------------
+					____ SAĞLIK ____ 
 ☐ HER GÜN 05:00 DA UYANMAK
-☐ 77 KİLO OLMAK 
-	☐87 ☐86 ☐85 ☐84 ☐83 ☐82 ☐81 ☐80 ☐79 ☐78 ☐77
-☐ BÜTÜN DİŞLERİMİ YAPTIRMAK
-☐ EPİLASYONA GİTMEK
-☐ SİGARAYI GÜNDE 1 ADET AKŞAM KAHVE İLE İÇMEK
-☐ ŞEKERİ SIFIRLAMAK
-☐ GÜNDE 1 ÖĞÜN YEMEK YE (ÖĞLE)
-☐ HAFTADA 1 GÜN YÜRÜYÜŞ YAPMAK
-------------------------------------------------------------------------------------------------
-										KARİYER
-☐ 3K MÜLAKAT SINAVINA GİRİP KAZANMAK. 
-☐ YDS DEN 30 ALMAK
-☐ ÜCRETSİZ İNGİLİZCE KONUŞABİLECEĞİN BİR SİTE BUL VE KONUŞMAYA BAŞLA
-
-								  İZLENECEK EĞİTİMLER
+☐ 77 KİLO OLMAK --> ☐87 ☐86 ☐85 ☐84 ☐83 ☐82 ☐81 ☐80 ☐79 ☐78 ☐77
+☐ BÜTÜN DİŞLERİMİ YAPTIRMAK				     	☐ EPİLASYONA GİTMEK
+☐ SİGARAYI GÜNDE 1 ADET AKŞAM KAHVE İLE İÇMEK		☐ ŞEKERİ SIFIRLAMAK
+☐ GÜNDE 1 ÖĞÜN YEMEK YE (ÖĞLE)	 	 	 	     ☐ HAFTADA 1 GÜN YÜRÜYÜŞ YAPMAK
+----------------------------------------------------------------------------------------------------
+					____ KARİYER ____ 
+☐ Eğitimleri izle bitir, 1 Temmuz'da ilk özel(REMOTE) veya kamu iş ilanına başvur.
+☐ 3K MÜLAKAT SINAVINA GİRİP KAZANMAK (ÖZEL-KAMU FARKETMEZ). LINKEDIN : SENIOR DEVELOPER YAZDIRMAK
+☐ YDS DEN 40 ALMAK
+☐ MESLEKİ TERİMLER SÖZLÜĞÜNÜ 20 SAYFAYA TAMAMLA
+☐ ÜCRETSİZ İNGİLİZCE KONUŞABİLECEĞİN BİR SİTE ÜZEİNDEN KONUŞMAYA BAŞLA VE KELİME EZBERLE
+☐ ÖĞRENECEĞİM TEKNOLOJİLER (her birinden eğitim izlemiş ve projede kullanmış olmak)
+   ☐ SQL	☐ .NET CORE ☐ REDİS ☐ DOCKER ☐ HTML-CSS ☐ JAVASCRİPT ☐ SignalR ☐ Microservices
+   ☐ node.js
+----------------------------------------------------------------------------------------------------
+					____ İZLENECEK EĞİTİMLER ____ 
 ☐ Engin Demiroğ | junior .net core kampı tamamı
+☐ Engin Demiroğ | Youtube senior .net core kampı canlı yakala
+☐ sql eğitimi 1. Eğitim (ömer çakıroğlu | uygulamalarla sql öğreniyorum)
+☐ sql eğitimi 2. Eğitim (ömer çakıroğlu | alkştırmalarla sql öğreniyorum)
+☐ sql eğitimi 3. Eğitim (ömer çakıroğlu | uçtan uca sql eğitimi)
 ☐ .NET Core 3.0 & C# 7 Backend Frontend Geliştirici Kursu - 1
 ☐ .NET Core 3.0 & C# 7 Backend Frontend Geliştirici Kursu - 2
 ☐ .NET Core 3.0 & C# 7 Backend Frontend Geliştirici Kursu - 3
 ☐ .NET Core 3.0 & C# 7 Backend Frontend Geliştirici Kursu - 4
-☐ sql eğitimi 1. Eğitim (ömer çakıroğlu | uygulamalarla sql öğreniyorum)
-☐ sql eğitimi 2. Eğitim (ömer çakıroğlu | alkştırmalarla sql öğreniyorum)
-☐ sql eğitimi 3. Eğitim (ömer çakıroğlu | uçtan uca sql eğitimi)
-☐ Fatih Çakıroğlu | Redis(Distributed Cache) ve In-Memory cache
-☐ Engin Demiroğ | senior .net core kampı
-☐ Engin Demiroğ | Yazılım Geliştirici Yetiştirme Kampı (JavaScript)
-☐ Gökhan Kandemir | 1 videoda Vue (3 saat)
-☐ Fatih Çakıroğlu | Udemy Asp.Net Core + SignalR
-☐ Fatih Çakıroğlu | Udemy Asp.Net Core + Docker (Sıfırdan)
 ☐ Engin Demiroğ | Udemy kurumsal veritabanı tasarımı
-								  YAPILMASI GEREKENLER
-☐ 1 MOBİL UYGULAMA GELİŞTİR HEM İSO A HEM ANDROİDE AT
-------------------------------------------------------------------------------------------------
-										HAYAT
-☐ AYDA 1 KİTAP BİTİRMEK
-   ☐								☐								☐	
-   ☐								☐								☐
-   ☐								☐								☐
-   ☐								☐								☐
+☐ Vue.JS | 
+☐ JavaScript | 
+☐ Redis | 
+☐ Node.js | 
+☐ SignalR | 
+☐ Microservices | 
+☐ Docker | 
+					YAPILMASI GEREKENLER
+☐ 1 MOBİL UYGULAMA GELİŞTİR(Angular) HEM IOS'a HEM ANDROID MARKET'E YÜKLE.
+☐ KENDİ BLOG SİTENİ KUR ÖZEL-MESLEKİ PAYLAŞIMLAR YAP, POST ATMASI ÇOK KOLAY OLSUN.
+----------------------------------------------------------------------------------------------------
+					____ HAYAT ____   
+☐ KURAN'I KERİM OKUMAYI ÖĞRENMEK	
+☐ AYDA 1 KİTAP BİTİRMEK + ___ TANE SESLİ KİTAP DİNLEYEREK 2024 YILININ KİTAPLARINI TOPLAMAK(ARKAYA YAZ)
+   ☐	 KURAN'I KERİM          ☐	PEYGAMBERİMİZİN HAYATI	☐ BARBAROS HAYRETTİN PAŞA
+   ☐	 İNSAN NEYLE YAŞAR?     ☐	ANKARA (Y.K.K)      	☐ ÜSKÜDARIN ÜÇ SIRLISI
+   ☐	 2. SULTAN MAHMUT       ☐	BİLİM TARİHİ SOHBETLERİ ☐ BEYAZ ZAMBAKLAR ÜLKESİNDE
+   ☐	 ŞİİR-İ KADİM           ☐	NUTUK		      	☐ BİRAZ KUANTUMDAN ZARAR GELMEZ
 ☐ AYDA 1 FİLM İZLEMEK (SİNEMADA VEYA EVDE)
    ☐								☐								☐	
    ☐								☐								☐
    ☐								☐								☐
    ☐								☐								☐
-☐ YÜZME ÖĞRENMEK
-☐ TEMİZ VE ŞIK GİYİN
+☐ YÜZME ÖĞRENMEK		☐ TEMİZ VE ŞIK GİYİNMEK		☐  
 ☐ SEYAHAT - TATİL 
-   ☐ ELAZIĞ   ☐  KONYA  ☐ SARIMSAKLI ☐ 			☐				☐
-------------------------------------------------------------------------------------------------
-										İLİŞKİLER
-☐ ABDULLAHLA DAHA SIK GÖRÜŞ
+   ☐ ELAZIĞ   ☐ KONYA  ☐ SARIMSAKLI  ☐ SAFRANBOLU ☐ İSTANBUL ☐  ANTALYA(kaan,yusuf) ☐ ANKARA 
+----------------------------------------------------------------------------------------------------
+					____ İLİŞKİLER ____ 
+☐ BU YIL SESSİZ SEDASIZ EVDE ÇALIŞMA-GELİŞME YILI.
+☐ KİMSEYİ GÖRÜŞMEK İÇİN SEN ARAMA BAŞKASI ARARSA DA YOK DEME.
 ☐ ON DİNLE, BİR SÖYLE
-------------------------------------------------------------------------------------------------
+☐ 1 OCAĞA KADAR YENİ İŞE BAŞLAMIŞ GİBİ SADECE GÖZLEM YAP, SUS VE ÇALIŞ
+☐ HERKESLE ARAN İYİ OLSUN AMA GİTSEN 1 GÜN SONRA KİMSENİN ARAMAYACAĞINI DA BİL (KALE)
+☐ ELİNDEKİ DOSTLARIN KIYMETİNİ BİL ONLARIN İŞLERİ DÜŞERSE YAPMAYA GAYRET ET.
+
+---------------------------------- 2023 BEKLENTİLER ve TAHMİNLER ----------------------------------
+
+☐ KADROYA GEÇERİM
+
+☐ HEDEFLERİN TAMAMINI GERÇEKLEŞTİR ÜZERİNE BİLE GEÇERİM
+
+☐ SEÇİMİ AKP KAZANIR
+
+☐ 1 OCAK 2024 DE 1 EVİM VE 1 ARABAMIZ OLUR, MADDİ OLARAK GÜZEL BİR KONUMDA OLURUZ
+
+☐ BİLGE 1 NİSANDAN ÖNCE ANKARAYA GELMEZ
+
+☐ EĞİTİMLERİ İZLER, PROJELER YAPAR VE SENİOR DEVELOPER OLURUM.
+
+☐ 
+
+☐ 
+
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+☐
+ 
+------------------------------------------ 2024 E NOTLAR -------------------------------------------
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________
+
+
+
+Ormanda iki oduncudan biri gün boyu durmaksızın çalışır, diğeri arada bir dinlenirmiş...
+Akşam olduğunda arasıra dinlenenin yaptığı odun miktarı hep daha fazla olurmuş..
+Devamlı çalışan sonunda dayanamamış, ”ben devamlı çalışıyorum, sen yatıyorsun ama 
+benden fazla odun yapıyorsun, bu nasıl olur?” demiş. Ara sıra dinlenen 
+”ben dinlenirken baltamı da bileyliyorum.” cevabını vermiş.
