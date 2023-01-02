@@ -11,7 +11,7 @@
    ☐					☐					☐
 ☐ Bilgeyle 3 animasyon Filmini evde hep beraber izlemek
    ☐					☐					☐
-----------------------------------------------------------------------------------------------------					
+----------------------------------------------------------------------------------------------------
 					____ MADDİ ____ 
 ☐ POLOYU SAT, LEON AL(GÜMÜŞ GRİ)
 ☐ HER HAFTA CUMARTESİ GÜNÜ PAZARA GİT
@@ -21,19 +21,20 @@
 					____ SAĞLIK ____ 
 ☐ HER GÜN 05:00 DA UYANMAK
 ☐ 77 KİLO OLMAK --> ☐87 ☐86 ☐85 ☐84 ☐83 ☐82 ☐81 ☐80 ☐79 ☐78 ☐77
-☐ BÜTÜN DİŞLERİMİ YAPTIRMAK				     	☐ EPİLASYONA GİTMEK
+☐ BÜTÜN DİŞLERİMİ YAPTIRMAK			 	☐ EPİLASYONA GİTMEK
 ☐ SİGARAYI GÜNDE 1 ADET AKŞAM KAHVE İLE İÇMEK		☐ ŞEKERİ SIFIRLAMAK
-☐ GÜNDE 1 ÖĞÜN YEMEK YE (ÖĞLE)	 	 	 	     ☐ HAFTADA 1 GÜN YÜRÜYÜŞ YAPMAK
+☐ GÜNDE 1 ÖĞÜN YEMEK YE (ÖĞLE)	 	 	 	☐ HAFTADA 1 GÜN YÜRÜYÜŞ YAPMAK
 ----------------------------------------------------------------------------------------------------
 					____ KARİYER ____ 
+☐ Hergün github'a kod atmak. 1 Gün bilge boş geçmemeli (Haftasonları hariç).
 ☐ Eğitimleri izle bitir, 1 Temmuz'da ilk özel(REMOTE) veya kamu iş ilanına başvur.
 ☐ 3K MÜLAKAT SINAVINA GİRİP KAZANMAK (ÖZEL-KAMU FARKETMEZ). LINKEDIN : SENIOR DEVELOPER YAZDIRMAK
 ☐ YDS DEN 40 ALMAK
 ☐ MESLEKİ TERİMLER SÖZLÜĞÜNÜ 20 SAYFAYA TAMAMLA
 ☐ ÜCRETSİZ İNGİLİZCE KONUŞABİLECEĞİN BİR SİTE ÜZEİNDEN KONUŞMAYA BAŞLA VE KELİME EZBERLE
 ☐ ÖĞRENECEĞİM TEKNOLOJİLER (her birinden eğitim izlemiş ve projede kullanmış olmak)
-   ☐ SQL	☐ .NET CORE ☐ REDİS ☐ DOCKER ☐ HTML-CSS ☐ JAVASCRİPT ☐ SignalR ☐ Microservices
-   ☐ node.js
+   ☐SQL ☐.NET CORE ☐REDİS ☐DOCKER ☐HTML-CSS ☐JAVASCRİPT ☐SignalR ☐Microservices ☐node.js
+   ☐   	      	  ☐   	      	  ☐   	     	  ☐   	      	  ☐
 ----------------------------------------------------------------------------------------------------
 					____ İZLENECEK EĞİTİMLER ____ 
 ☐ Engin Demiroğ | junior .net core kampı tamamı
@@ -58,7 +59,7 @@
 ☐ KENDİ BLOG SİTENİ KUR ÖZEL-MESLEKİ PAYLAŞIMLAR YAP, POST ATMASI ÇOK KOLAY OLSUN.
 ----------------------------------------------------------------------------------------------------
 					____ HAYAT ____   
-☐ KURAN'I KERİM OKUMAYI ÖĞRENMEK	
+☐ KURAN'I KERİM OKUMAYI ÖĞRENMEK.	 ☐ EKSİK-YANLIŞ DUALARINI TAMAMLAMAK ☐ 30/30 ORUÇ
 ☐ AYDA 1 KİTAP BİTİRMEK + ___ TANE SESLİ KİTAP DİNLEYEREK 2024 YILININ KİTAPLARINI TOPLAMAK(ARKAYA YAZ)
    ☐	 KURAN'I KERİM          ☐	PEYGAMBERİMİZİN HAYATI	☐ BARBAROS HAYRETTİN PAŞA
    ☐	 İNSAN NEYLE YAŞAR?     ☐	ANKARA (Y.K.K)      	☐ ÜSKÜDARIN ÜÇ SIRLISI
